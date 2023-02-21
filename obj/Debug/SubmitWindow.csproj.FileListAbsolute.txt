@@ -1,0 +1,16 @@
+D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\bin\Debug\SubmitWindow.exe.config
+D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\bin\Debug\SubmitWindow.exe
+D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\bin\Debug\SubmitWindow.pdb
+D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\obj\Debug\SubmitWindow.csproj.AssemblyReference.cache
+D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\obj\Debug\SubmitWindow.CheckBoxx.resources
+D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\obj\Debug\SubmitWindow.checkedlistbox.resources
+D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\obj\Debug\SubmitWindow.ComboBox.resources
+D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\obj\Debug\SubmitWindow.fullcontrols.resources
+D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\obj\Debug\SubmitWindow.ListBox.resources
+D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\obj\Debug\SubmitWindow.ListView.resources
+D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\obj\Debug\SubmitWindow.Main.resources
+D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\obj\Debug\SubmitWindow.Properties.Resources.resources
+D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\obj\Debug\SubmitWindow.csproj.GenerateResource.cache
+D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\obj\Debug\SubmitWindow.csproj.CoreCompileInputs.cache
+D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\obj\Debug\SubmitWindow.exe
+D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\obj\Debug\SubmitWindow.pdb
