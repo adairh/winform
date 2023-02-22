@@ -14,3 +14,4 @@ D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\obj\Debug\SubmitWindow.csp
 D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\obj\Debug\SubmitWindow.csproj.CoreCompileInputs.cache
 D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\obj\Debug\SubmitWindow.exe
 D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\obj\Debug\SubmitWindow.pdb
+D:\CodingProjects\Rider\WindowPrograming\SubmitWindow\obj\Debug\SubmitWindow.treeView.resources

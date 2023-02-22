@@ -25,11 +25,12 @@ namespace SubmitWindow
         private void btnRemove_Click(object sender, EventArgs e)
         {
             
-            int index = lstBox.SelectedIndex;
+            /*int index = lstBox.SelectedIndex;
            
                 lstBox.Items.RemoveAt(index);
             
                 lstBox.Focus();
+                */
           
           
                 
@@ -38,7 +39,7 @@ namespace SubmitWindow
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            lstBox.Items.Add((comboBox1.SelectedItem));
+           // lstBox.Items.Add((comboBox1.SelectedItem));
             comboBox1.Items.Remove(comboBox1.SelectedItem);
          
         }
