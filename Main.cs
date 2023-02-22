@@ -52,5 +52,11 @@ namespace SubmitWindow
             CheckBoxx checkBoxx = new CheckBoxx();
             checkBoxx.ShowDialog();
         }
+
+        private void treeViewToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            treeView tv = new treeView();
+            tv.ShowDialog();
+        }
     }
 }

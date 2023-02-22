@@ -33,8 +33,8 @@ namespace SubmitWindow
         #region Windows Form Designer generated code
 
         /// <summary>
-        ///  Required method for Designer support - do not modify
-        ///  the contents of this method with the code editor.
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
         {
@@ -46,16 +46,18 @@ namespace SubmitWindow
             // 
             // txtItem
             // 
-            this.txtItem.Location = new System.Drawing.Point(160, 77);
+            this.txtItem.Location = new System.Drawing.Point(31, 85);
+            this.txtItem.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtItem.Name = "txtItem";
-            this.txtItem.Size = new System.Drawing.Size(150, 31);
+            this.txtItem.Size = new System.Drawing.Size(92, 20);
             this.txtItem.TabIndex = 1;
             // 
             // btnAdd
             // 
-            this.btnAdd.Location = new System.Drawing.Point(539, 73);
+            this.btnAdd.Location = new System.Drawing.Point(31, 136);
+            this.btnAdd.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(112, 34);
+            this.btnAdd.Size = new System.Drawing.Size(67, 18);
             this.btnAdd.TabIndex = 2;
             this.btnAdd.Text = "add";
             this.btnAdd.UseVisualStyleBackColor = true;
@@ -63,9 +65,10 @@ namespace SubmitWindow
             // 
             // btnRemove
             // 
-            this.btnRemove.Location = new System.Drawing.Point(539, 198);
+            this.btnRemove.Location = new System.Drawing.Point(144, 136);
+            this.btnRemove.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnRemove.Name = "btnRemove";
-            this.btnRemove.Size = new System.Drawing.Size(112, 34);
+            this.btnRemove.Size = new System.Drawing.Size(67, 18);
             this.btnRemove.TabIndex = 2;
             this.btnRemove.Text = "Remove";
             this.btnRemove.UseVisualStyleBackColor = true;
@@ -74,39 +77,34 @@ namespace SubmitWindow
             // lstListBox
             // 
             this.lstListBox.FormattingEnabled = true;
-            this.lstListBox.ItemHeight = 25;
-            this.lstListBox.Items.AddRange(new object[] {
-            "Item 1",
-            "Item 2",
-            "Phần tử 1",
-            "Phần tử 2"});
-            this.lstListBox.Location = new System.Drawing.Point(160, 198);
+            this.lstListBox.Items.AddRange(new object[] { "Paracetamol", "Aspirin", "Antacid", "Betadin", "Omeprazol" });
+            this.lstListBox.Location = new System.Drawing.Point(282, 85);
+            this.lstListBox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.lstListBox.Name = "lstListBox";
-            this.lstListBox.Size = new System.Drawing.Size(180, 129);
+            this.lstListBox.Size = new System.Drawing.Size(110, 69);
             this.lstListBox.TabIndex = 3;
             // 
-            // Form1
+            // ListBox
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(424, 240);
             this.Controls.Add(this.lstListBox);
             this.Controls.Add(this.btnRemove);
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.txtItem);
-            this.Name = "Form1";
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Name = "ListBox";
             this.Text = "Form1";
-        
             this.ResumeLayout(false);
             this.PerformLayout();
-
         }
 
         #endregion
 
-        private TextBox txtItem;
-        private Button btnAdd;
-        private Button btnRemove;
+        private System.Windows.Forms.TextBox txtItem;
+        private System.Windows.Forms.Button btnAdd;
+        private System.Windows.Forms.Button btnRemove;
         private System.Windows.Forms.ListBox lstListBox;
     }
 }
